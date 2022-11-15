@@ -1,1 +1,1 @@
-# my-configuration
+# My Config
