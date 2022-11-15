@@ -1,1 +1,1 @@
-# No thing fancy, Just some assets for my configuration
+No thing fancy, just some assets for my configuration
